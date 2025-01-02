@@ -1,8 +1,8 @@
-Name: Prabhat Kumar
+Name: Rehan Majid
 
 Company: Prodigy InfoTech
 
-CIN: PIT/DEC24/02757
+CIN: PIT/JUN24/03902
 
 Domain: DATA SCIENCE
 
